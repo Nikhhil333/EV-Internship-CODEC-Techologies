@@ -1,0 +1,6 @@
+{
+  "name": "ChargeFinder EV",
+  "description": "EV Charging Station Locator & Route Planner for Bhubaneswar, Odisha, India. Real EV station data powered by Open Charge Map API, featuring CCS2 and Type 2 connectors, distance in km, and interactive Google Maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
